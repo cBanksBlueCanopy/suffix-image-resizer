@@ -3,7 +3,7 @@
  * Plugin Name: Suffix Image Resizer
  * Description: Resizes images whose filename ends with a configured string (e.g. "BottleImage.webp"), on upload and for images already in the media library. Supports fit, crop, and pad (transparent canvas) modes.
  * Version:     1.2.0
- * Author:      You
+ * Author:      Mahoney Marketing
  * License:     GPL-2.0-or-later
  */
 
